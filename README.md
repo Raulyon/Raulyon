@@ -1,6 +1,5 @@
 <h1 align="center">Hi there! 👋</h1>
 Hello! здравствуйте!
-
 I'm a university student pursuing a degree in System Information.  
 I'm passionate about technology, programming, and learning how systems work together to solve real-world problems. Here on GitHub, you'll find my projects, assignments, and experiments as I continue to learn and grow in the field of Information Systems.
 
