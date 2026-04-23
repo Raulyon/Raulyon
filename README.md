@@ -16,6 +16,6 @@ Feel free to explore my repositories, and don't hesitate to connect or collabora
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,py,discord,github,laravel" />
   </a>
 </p>
